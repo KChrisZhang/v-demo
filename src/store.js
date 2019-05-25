@@ -3,14 +3,28 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({
-  state: {
-
-  },
-  mutations: {
-
-  },
-  actions: {
-
-  }
-})
+export function createStore() {
+  return new Vuex.Store({
+    state: {
+      items: ''
+    },
+    mutations: {
+      setItem(state, {
+        id,
+        item
+      }) {
+        Vue.set(state.items, id, item)
+      }
+    },
+    actions: {
+      fetchItem({
+        commit
+      }, id) {
+        commit('setItem', {
+          id,
+          item: 'item'
+        })
+      }
+    }
+  })
+}

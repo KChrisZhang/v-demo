@@ -1,0 +1,281 @@
+{
+  "keys": "/Users/kchris/Desktop/projects/v-demo/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "name": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "version": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "private": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "serve": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "build": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "build:client": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "build:server": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "test:e2e": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "test:unit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "core-js": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "egg": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "es6-promise": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "register-service-worker": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "vue": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "vue-server-renderer": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@vue/cli-plugin-babel": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "@vue/cli-plugin-e2e-cypress": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "@vue/cli-plugin-pwa": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "@vue/cli-plugin-unit-jest": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "@vue/cli-service": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "@vue/test-utils": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "babel-core": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "babel-jest": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "less": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "lodash.merge": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "vue-template-compiler": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "webpack-node-externals": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "env": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "level": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "port": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
+}
