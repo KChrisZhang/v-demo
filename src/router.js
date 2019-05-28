@@ -14,7 +14,7 @@ export function createRouter() {
         component: Home
       },
       {
-        path: '/about',
+        path: '/about/:id',
         name: 'about',
         component: () => import('./pages/About.vue')
       }

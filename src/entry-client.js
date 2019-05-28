@@ -13,7 +13,8 @@ Vue.mixin({
     if (asyncData) {
       asyncData({
         store: this.$store,
-        route: to
+        route: to,
+        i18n: this.$i18n
       }).then(next).catch(next)
     } else {
       next()

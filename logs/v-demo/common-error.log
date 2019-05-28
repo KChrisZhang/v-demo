@@ -238,3 +238,363 @@ source: "function(obj) {\nobj || (obj = {});\nvar __t, __p = '', __j = Array.pro
 pid: 6437
 hostname: KChrisdeMacBook-Pro.local
 
+2019-05-27 09:43:03,092 ERROR 995 [-/::1/-/3ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:03,161 ERROR 995 [-/::1/-/1ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:03,168 ERROR 995 [-/::1/-/1ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:03,173 ERROR 995 [-/::1/-/1ms GET /js/chunk-2d207d33.deaf1054.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:03,179 ERROR 995 [-/::1/-/2ms GET /precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:04,631 ERROR 995 [-/::1/-/3ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:04,638 ERROR 995 [-/::1/-/9ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:04,656 ERROR 995 [-/::1/-/6ms GET /js/chunk-2d207d33.deaf1054.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:04,663 ERROR 995 [-/::1/-/7ms GET /precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:04,677 ERROR 995 [-/::1/-/3ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:04,680 ERROR 995 [-/::1/-/5ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:07,483 ERROR 995 [-/::1/-/2ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:07,487 ERROR 995 [-/::1/-/5ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:07,505 ERROR 995 [-/::1/-/3ms GET /precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:07,529 ERROR 995 [-/::1/-/5ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:07,533 ERROR 995 [-/::1/-/8ms GET /js/chunk-2d207d33.deaf1054.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:07,540 ERROR 995 [-/::1/-/16ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:18,620 ERROR 995 [-/::1/-/5ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:18,625 ERROR 995 [-/::1/-/9ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:18,645 ERROR 995 [-/::1/-/7ms GET /js/chunk-2d207d33.deaf1054.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:18,652 ERROR 995 [-/::1/-/8ms GET /precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:18,663 ERROR 995 [-/::1/-/3ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:18,668 ERROR 995 [-/::1/-/7ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:25,053 ERROR 995 [-/::1/-/8ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:25,077 ERROR 995 [-/::1/-/4ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:25,081 ERROR 995 [-/::1/-/8ms GET /js/chunk-2d207d33.deaf1054.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:25,093 ERROR 995 [-/::1/-/4ms GET /precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:25,104 ERROR 995 [-/::1/-/6ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:26,384 ERROR 995 [-/::1/-/6ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:26,390 ERROR 995 [-/::1/-/12ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:26,404 ERROR 995 [-/::1/-/9ms GET /js/chunk-2d207d33.deaf1054.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-2d207d33.deaf1054.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:26,408 ERROR 995 [-/::1/-/13ms GET /precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/precache-manifest.5b59a0a4ad0cc03efda7bf9d70236e4e.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:26,436 ERROR 995 [-/::1/-/6ms GET /js/chunk-vendors.0d5d5684.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/chunk-vendors.0d5d5684.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 09:43:26,440 ERROR 995 [-/::1/-/4ms GET /js/main.c94c85a0.js] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/kchris/Desktop/projects/v-demo/dist/client/js/main.c94c85a0.js"
+name: "ENOENTError"
+pid: 995
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 12:26:31,842 ERROR 3515 nodejs.ClusterClientNoResponseError: client no response in 1873487ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/kchris/Desktop/projects/v-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3515
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 12:55:09,905 ERROR 3515 nodejs.ClusterClientNoResponseError: client no response in 1698036ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/kchris/Desktop/projects/v-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3515
+hostname: KChrisdeMacBook-Pro.local
+

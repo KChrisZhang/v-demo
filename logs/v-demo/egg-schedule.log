@@ -322,3 +322,171 @@
 2019-05-24 19:24:24,393 INFO 6915 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2019-05-24 19:24:24,393 INFO 6915 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
 2019-05-24 19:24:24,393 INFO 6915 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:19:17,007 INFO 774 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 69042996ms at 2019-05-26 04:30:00.003
+2019-05-25 09:19:17,008 INFO 774 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52842992ms at 2019-05-26 00:00:00.000
+2019-05-25 09:19:17,008 INFO 774 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52843992ms at 2019-05-26 00:00:01.000
+2019-05-25 09:19:16,789 INFO 775 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:19:16,789 INFO 775 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:19:16,789 INFO 775 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:26:18,741 INFO 979 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:26:18,741 INFO 979 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:26:18,741 INFO 979 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:27:06,635 INFO 995 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68573368ms at 2019-05-26 04:30:00.003
+2019-05-25 09:27:06,635 INFO 995 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52373365ms at 2019-05-26 00:00:00.000
+2019-05-25 09:27:06,636 INFO 995 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52374365ms at 2019-05-26 00:00:01.001
+2019-05-25 09:27:06,530 INFO 996 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:27:06,530 INFO 996 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:27:06,530 INFO 996 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:40:17,087 INFO 1198 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:40:17,087 INFO 1198 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:40:17,087 INFO 1198 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:40:17,746 INFO 1199 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:40:17,746 INFO 1199 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:40:17,746 INFO 1199 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:40:41,557 INFO 1208 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:40:41,557 INFO 1208 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:40:41,557 INFO 1208 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-25 09:40:57,667 INFO 1218 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 67742336ms at 2019-05-26 04:30:00.003
+2019-05-25 09:40:57,668 INFO 1218 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51542333ms at 2019-05-26 00:00:00.001
+2019-05-25 09:40:57,668 INFO 1218 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51543332ms at 2019-05-26 00:00:01.000
+2019-05-25 09:40:57,565 INFO 1219 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-25 09:40:57,565 INFO 1219 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-25 09:40:57,565 INFO 1219 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:15:04,508 INFO 783 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 69295495ms at 2019-05-28 04:30:00.003
+2019-05-27 09:15:04,508 INFO 783 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 53095492ms at 2019-05-28 00:00:00.000
+2019-05-27 09:15:04,508 INFO 783 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 53096492ms at 2019-05-28 00:00:01.000
+2019-05-27 09:15:04,297 INFO 784 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:15:04,297 INFO 784 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:15:04,297 INFO 784 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:28:40,787 INFO 960 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:28:40,787 INFO 960 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:28:40,787 INFO 960 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:28:42,418 INFO 961 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:28:42,418 INFO 961 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:28:42,418 INFO 961 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:28:42,997 INFO 962 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:28:42,997 INFO 962 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:28:42,997 INFO 962 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:30:55,303 INFO 995 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:30:55,303 INFO 995 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:30:55,303 INFO 995 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:35:12,221 INFO 1069 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68087782ms at 2019-05-28 04:30:00.003
+2019-05-27 09:35:12,222 INFO 1069 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51887778ms at 2019-05-28 00:00:00.000
+2019-05-27 09:35:12,222 INFO 1069 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51888778ms at 2019-05-28 00:00:01.000
+2019-05-27 09:35:12,118 INFO 1070 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:35:12,118 INFO 1070 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:35:12,118 INFO 1070 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:42:26,161 INFO 1278 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 67653842ms at 2019-05-28 04:30:00.003
+2019-05-27 09:42:26,161 INFO 1278 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51453839ms at 2019-05-28 00:00:00.000
+2019-05-27 09:42:26,162 INFO 1278 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51454839ms at 2019-05-28 00:00:01.001
+2019-05-27 09:42:26,053 INFO 1279 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:42:26,053 INFO 1279 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:42:26,053 INFO 1279 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 09:48:25,251 INFO 1436 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 67294752ms at 2019-05-28 04:30:00.003
+2019-05-27 09:48:25,251 INFO 1436 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51094749ms at 2019-05-28 00:00:00.000
+2019-05-27 09:48:25,251 INFO 1436 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51095749ms at 2019-05-28 00:00:01.000
+2019-05-27 09:48:25,151 INFO 1437 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 09:48:25,151 INFO 1437 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 09:48:25,151 INFO 1437 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 10:09:40,602 INFO 1813 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66019401ms at 2019-05-28 04:30:00.003
+2019-05-27 10:09:40,602 INFO 1813 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 49819398ms at 2019-05-28 00:00:00.000
+2019-05-27 10:09:40,603 INFO 1813 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 49820398ms at 2019-05-28 00:00:01.001
+2019-05-27 10:09:40,487 INFO 1814 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 10:09:40,487 INFO 1814 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 10:09:40,487 INFO 1814 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 11:36:03,394 INFO 3288 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 11:36:03,394 INFO 3288 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 11:36:03,394 INFO 3288 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 11:36:03,601 INFO 3287 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60836401ms at 2019-05-28 04:30:00.002
+2019-05-27 11:36:03,602 INFO 3287 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44636398ms at 2019-05-28 00:00:00.000
+2019-05-27 11:36:03,602 INFO 3287 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44637398ms at 2019-05-28 00:00:01.000
+2019-05-27 11:42:11,792 INFO 3382 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60468211ms at 2019-05-28 04:30:00.003
+2019-05-27 11:42:11,793 INFO 3382 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44268208ms at 2019-05-28 00:00:00.001
+2019-05-27 11:42:11,793 INFO 3382 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44269207ms at 2019-05-28 00:00:01.000
+2019-05-27 11:42:11,649 INFO 3383 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 11:42:11,649 INFO 3383 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 11:42:11,649 INFO 3383 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 11:50:24,573 INFO 3476 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59975429ms at 2019-05-28 04:30:00.002
+2019-05-27 11:50:24,574 INFO 3476 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43775426ms at 2019-05-28 00:00:00.000
+2019-05-27 11:50:24,574 INFO 3476 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43776426ms at 2019-05-28 00:00:01.000
+2019-05-27 11:50:24,384 INFO 3477 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 11:50:24,384 INFO 3477 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 11:50:24,384 INFO 3477 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 11:51:18,334 INFO 3515 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59921669ms at 2019-05-28 04:30:00.003
+2019-05-27 11:51:18,334 INFO 3515 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43721666ms at 2019-05-28 00:00:00.000
+2019-05-27 11:51:18,334 INFO 3515 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43722666ms at 2019-05-28 00:00:01.000
+2019-05-27 11:51:18,158 INFO 3516 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 11:51:18,158 INFO 3516 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 11:51:18,158 INFO 3516 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-27 12:57:17,947 INFO 3632 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55962056ms at 2019-05-28 04:30:00.003
+2019-05-27 12:57:17,948 INFO 3632 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39762052ms at 2019-05-28 00:00:00.000
+2019-05-27 12:57:17,949 INFO 3632 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39763052ms at 2019-05-28 00:00:01.001
+2019-05-27 12:57:17,728 INFO 3633 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-27 12:57:17,729 INFO 3633 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-27 12:57:17,729 INFO 3633 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 09:18:20,715 INFO 1516 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 09:18:20,715 INFO 1516 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 09:18:20,715 INFO 1516 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 09:18:20,936 INFO 1515 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 69099069ms at 2019-05-29 04:30:00.005
+2019-05-28 09:18:20,937 INFO 1515 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52899063ms at 2019-05-29 00:00:00.000
+2019-05-28 09:18:20,938 INFO 1515 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52900063ms at 2019-05-29 00:00:01.001
+2019-05-28 09:23:26,969 INFO 1666 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68793035ms at 2019-05-29 04:30:00.004
+2019-05-28 09:23:26,969 INFO 1666 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52593031ms at 2019-05-29 00:00:00.000
+2019-05-28 09:23:26,970 INFO 1666 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52594031ms at 2019-05-29 00:00:01.001
+2019-05-28 09:23:26,818 INFO 1667 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 09:23:26,818 INFO 1667 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 09:23:26,818 INFO 1667 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 09:29:05,470 INFO 1770 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68454533ms at 2019-05-29 04:30:00.003
+2019-05-28 09:29:05,470 INFO 1770 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 52254530ms at 2019-05-29 00:00:00.000
+2019-05-28 09:29:05,471 INFO 1770 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52255530ms at 2019-05-29 00:00:01.001
+2019-05-28 09:29:05,310 INFO 1771 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 09:29:05,310 INFO 1771 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 09:29:05,310 INFO 1771 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 09:36:29,758 INFO 1890 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68010245ms at 2019-05-29 04:30:00.003
+2019-05-28 09:36:29,758 INFO 1890 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51810242ms at 2019-05-29 00:00:00.000
+2019-05-28 09:36:29,759 INFO 1890 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51811242ms at 2019-05-29 00:00:01.001
+2019-05-28 09:36:29,602 INFO 1891 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 09:36:29,602 INFO 1891 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 09:36:29,602 INFO 1891 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 10:01:29,007 INFO 2326 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66510996ms at 2019-05-29 04:30:00.002
+2019-05-28 10:01:29,007 INFO 2326 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50310993ms at 2019-05-29 00:00:00.000
+2019-05-28 10:01:29,007 INFO 2326 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50311993ms at 2019-05-29 00:00:01.000
+2019-05-28 10:01:28,845 INFO 2327 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 10:01:28,845 INFO 2327 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 10:01:28,845 INFO 2327 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 10:04:47,886 INFO 2425 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66312118ms at 2019-05-29 04:30:00.003
+2019-05-28 10:04:47,886 INFO 2425 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50112114ms at 2019-05-29 00:00:00.000
+2019-05-28 10:04:47,886 INFO 2425 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50113114ms at 2019-05-29 00:00:01.000
+2019-05-28 10:04:47,710 INFO 2426 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 10:04:47,710 INFO 2426 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 10:04:47,711 INFO 2426 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 10:09:10,542 INFO 2534 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66049462ms at 2019-05-29 04:30:00.004
+2019-05-28 10:09:10,542 INFO 2534 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 49849458ms at 2019-05-29 00:00:00.000
+2019-05-28 10:09:10,542 INFO 2534 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 49850458ms at 2019-05-29 00:00:01.000
+2019-05-28 10:09:10,388 INFO 2535 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 10:09:10,388 INFO 2535 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 10:09:10,388 INFO 2535 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 10:34:35,746 INFO 2808 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64524258ms at 2019-05-29 04:30:00.004
+2019-05-28 10:34:35,746 INFO 2808 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48324254ms at 2019-05-29 00:00:00.000
+2019-05-28 10:34:35,746 INFO 2808 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48325254ms at 2019-05-29 00:00:01.000
+2019-05-28 10:34:35,604 INFO 2809 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 10:34:35,604 INFO 2809 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 10:34:35,604 INFO 2809 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 10:36:37,118 INFO 2867 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64402886ms at 2019-05-29 04:30:00.004
+2019-05-28 10:36:37,118 INFO 2867 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48202882ms at 2019-05-29 00:00:00.000
+2019-05-28 10:36:37,119 INFO 2867 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48203882ms at 2019-05-29 00:00:01.001
+2019-05-28 10:36:37,008 INFO 2869 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 10:36:37,008 INFO 2869 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 10:36:37,008 INFO 2869 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 14:25:34,733 INFO 5345 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 14:25:34,733 INFO 5345 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 14:25:34,733 INFO 5345 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 14:25:34,968 INFO 5344 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50665036ms at 2019-05-29 04:30:00.004
+2019-05-28 14:25:34,969 INFO 5344 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34465031ms at 2019-05-29 00:00:00.000
+2019-05-28 14:25:34,969 INFO 5344 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34466031ms at 2019-05-29 00:00:01.000
+2019-05-28 14:28:22,404 INFO 5431 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-28 14:28:22,404 INFO 5431 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-28 14:28:22,404 INFO 5431 [egg-schedule]: register schedule /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-28 14:28:22,572 INFO 5430 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50497432ms at 2019-05-29 04:30:00.004
+2019-05-28 14:28:22,573 INFO 5430 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34297428ms at 2019-05-29 00:00:00.001
+2019-05-28 14:28:22,573 INFO 5430 [Timer] /Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34298427ms at 2019-05-29 00:00:01.000

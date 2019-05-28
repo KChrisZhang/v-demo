@@ -618,3 +618,290 @@
 2019-05-24 19:24:23,856 INFO 6914 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
 2019-05-24 19:24:23,856 INFO 6914 [egg-watcher:agent] watcher start success
 2019-05-24 19:24:23,871 INFO 6914 [egg:core] dump config after ready, 2ms
+2019-05-25 09:19:16,142 INFO 774 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-25 09:19:16,152 INFO 774 [egg:core] dump config after load, 3ms
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-25 09:19:16,199 INFO 774 [egg-watcher:agent] watcher start success
+2019-05-25 09:19:16,217 INFO 774 [egg:core] dump config after ready, 2ms
+2019-05-25 09:26:17,776 INFO 774 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2061034,"size":115,"blocks":8,"atimeMs":1558747577663.026,"mtimeMs":1558747577663.8914,"ctimeMs":1558747577663.8914,"birthtimeMs":1558600293345.4038,"atime":"2019-05-25T01:26:17.663Z","mtime":"2019-05-25T01:26:17.664Z","ctime":"2019-05-25T01:26:17.664Z","birthtime":"2019-05-23T08:31:33.345Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-25 09:26:17,971 INFO 774 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2061034,"size":115,"blocks":8,"atimeMs":1558747577957.3982,"mtimeMs":1558747577960.616,"ctimeMs":1558747577960.616,"birthtimeMs":1558600293345.4038,"atime":"2019-05-25T01:26:17.957Z","mtime":"2019-05-25T01:26:17.961Z","ctime":"2019-05-25T01:26:17.961Z","birthtime":"2019-05-23T08:31:33.345Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-25 09:26:18,176 WARN 774 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/app/router.js change
+2019-05-25 09:27:05,961 INFO 995 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-25 09:27:05,970 INFO 995 [egg:core] dump config after load, 3ms
+2019-05-25 09:27:06,000 INFO 995 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-25 09:27:06,000 INFO 995 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-25 09:27:06,001 INFO 995 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-25 09:27:06,001 INFO 995 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-25 09:27:06,001 INFO 995 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-25 09:27:06,001 INFO 995 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-25 09:27:06,001 INFO 995 [egg-watcher:agent] watcher start success
+2019-05-25 09:27:06,017 INFO 995 [egg:core] dump config after ready, 3ms
+2019-05-25 09:40:16,498 WARN 995 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-25 09:40:16,784 WARN 995 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-25 09:40:16,294 INFO 995 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":252,"blocks":8,"atimeMs":1558748416231.911,"mtimeMs":1558748416232.275,"ctimeMs":1558748416232.275,"birthtimeMs":1558600927353.99,"atime":"2019-05-25T01:40:16.232Z","mtime":"2019-05-25T01:40:16.232Z","ctime":"2019-05-25T01:40:16.232Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-25 09:40:16,579 INFO 995 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":252,"blocks":8,"atimeMs":1558748416568.7102,"mtimeMs":1558748416569.0486,"ctimeMs":1558748416569.0486,"birthtimeMs":1558600927353.99,"atime":"2019-05-25T01:40:16.569Z","mtime":"2019-05-25T01:40:16.569Z","ctime":"2019-05-25T01:40:16.569Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-25 09:40:40,951 WARN 995 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-25 09:40:40,569 INFO 995 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":249,"blocks":8,"atimeMs":1558748440506.742,"mtimeMs":1558748440507.0684,"ctimeMs":1558748440507.0684,"birthtimeMs":1558600927353.99,"atime":"2019-05-25T01:40:40.507Z","mtime":"2019-05-25T01:40:40.507Z","ctime":"2019-05-25T01:40:40.507Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-25 09:40:40,749 INFO 995 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":249,"blocks":8,"atimeMs":1558748440738.316,"mtimeMs":1558748440738.6743,"ctimeMs":1558748440738.6743,"birthtimeMs":1558600927353.99,"atime":"2019-05-25T01:40:40.738Z","mtime":"2019-05-25T01:40:40.739Z","ctime":"2019-05-25T01:40:40.739Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-25 09:40:56,990 INFO 1218 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-25 09:40:57,000 INFO 1218 [egg:core] dump config after load, 4ms
+2019-05-25 09:40:57,031 INFO 1218 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-25 09:40:57,031 INFO 1218 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-25 09:40:57,031 INFO 1218 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-25 09:40:57,031 INFO 1218 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-25 09:40:57,031 INFO 1218 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-25 09:40:57,032 INFO 1218 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-25 09:40:57,032 INFO 1218 [egg-watcher:agent] watcher start success
+2019-05-25 09:40:57,049 INFO 1218 [egg:core] dump config after ready, 3ms
+2019-05-27 09:15:03,663 INFO 783 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 09:15:03,674 INFO 783 [egg:core] dump config after load, 4ms
+2019-05-27 09:15:03,721 INFO 783 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 09:15:03,721 INFO 783 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 09:15:03,721 INFO 783 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 09:15:03,721 INFO 783 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 09:15:03,721 INFO 783 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 09:15:03,721 INFO 783 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 09:15:03,722 INFO 783 [egg-watcher:agent] watcher start success
+2019-05-27 09:15:03,737 INFO 783 [egg:core] dump config after ready, 3ms
+2019-05-27 09:28:39,760 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":242,"blocks":8,"atimeMs":1558920519625.259,"mtimeMs":1558920519625.565,"ctimeMs":1558920519625.565,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:28:39.625Z","mtime":"2019-05-27T01:28:39.626Z","ctime":"2019-05-27T01:28:39.626Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:28:39,840 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":242,"blocks":8,"atimeMs":1558920519826.4487,"mtimeMs":1558920519828.7627,"ctimeMs":1558920519828.7627,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:28:39.826Z","mtime":"2019-05-27T01:28:39.829Z","ctime":"2019-05-27T01:28:39.829Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:28:40,030 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":242,"blocks":8,"atimeMs":1558920520020.1035,"mtimeMs":1558920520020.4124,"ctimeMs":1558920520020.4124,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:28:40.020Z","mtime":"2019-05-27T01:28:40.020Z","ctime":"2019-05-27T01:28:40.020Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:28:40,237 WARN 783 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-27 09:28:41,906 WARN 783 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-27 09:28:41,700 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":242,"blocks":8,"atimeMs":1558920521688.527,"mtimeMs":1558920521688.8696,"ctimeMs":1558920521688.8696,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:28:41.689Z","mtime":"2019-05-27T01:28:41.689Z","ctime":"2019-05-27T01:28:41.689Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:28:41,953 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":242,"blocks":8,"atimeMs":1558920521941.962,"mtimeMs":1558920521942.3088,"ctimeMs":1558920521942.3088,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:28:41.942Z","mtime":"2019-05-27T01:28:41.942Z","ctime":"2019-05-27T01:28:41.942Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:28:42,138 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":242,"blocks":8,"atimeMs":1558920522126.0984,"mtimeMs":1558920522128.1614,"ctimeMs":1558920522128.1614,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:28:42.126Z","mtime":"2019-05-27T01:28:42.128Z","ctime":"2019-05-27T01:28:42.128Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:28:42,340 WARN 783 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-27 09:30:54,390 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":235,"blocks":8,"atimeMs":1558920654327.5557,"mtimeMs":1558920654329.1318,"ctimeMs":1558920654329.1318,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:30:54.328Z","mtime":"2019-05-27T01:30:54.329Z","ctime":"2019-05-27T01:30:54.329Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:30:54,768 WARN 783 [agent:development] reload worker because /Users/kchris/Desktop/projects/v-demo/config/config.default.js change
+2019-05-27 09:30:54,566 INFO 783 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2075254,"size":235,"blocks":8,"atimeMs":1558920654554.8843,"mtimeMs":1558920654555.2217,"ctimeMs":1558920654555.2217,"birthtimeMs":1558600927353.99,"atime":"2019-05-27T01:30:54.555Z","mtime":"2019-05-27T01:30:54.555Z","ctime":"2019-05-27T01:30:54.555Z","birthtime":"2019-05-23T08:42:07.354Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 09:35:11,541 INFO 1069 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 09:35:11,551 INFO 1069 [egg:core] dump config after load, 3ms
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 09:35:11,584 INFO 1069 [egg-watcher:agent] watcher start success
+2019-05-27 09:35:11,601 INFO 1069 [egg:core] dump config after ready, 2ms
+2019-05-27 09:42:25,477 INFO 1278 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 09:42:25,486 INFO 1278 [egg:core] dump config after load, 3ms
+2019-05-27 09:42:25,516 INFO 1278 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 09:42:25,516 INFO 1278 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 09:42:25,516 INFO 1278 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 09:42:25,516 INFO 1278 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 09:42:25,516 INFO 1278 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 09:42:25,517 INFO 1278 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 09:42:25,517 INFO 1278 [egg-watcher:agent] watcher start success
+2019-05-27 09:42:25,531 INFO 1278 [egg:core] dump config after ready, 2ms
+2019-05-27 09:48:24,592 INFO 1436 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 09:48:24,602 INFO 1436 [egg:core] dump config after load, 4ms
+2019-05-27 09:48:24,634 INFO 1436 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 09:48:24,634 INFO 1436 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 09:48:24,634 INFO 1436 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 09:48:24,634 INFO 1436 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 09:48:24,635 INFO 1436 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 09:48:24,635 INFO 1436 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 09:48:24,635 INFO 1436 [egg-watcher:agent] watcher start success
+2019-05-27 09:48:24,650 INFO 1436 [egg:core] dump config after ready, 3ms
+2019-05-27 10:09:39,887 INFO 1813 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 10:09:39,898 INFO 1813 [egg:core] dump config after load, 5ms
+2019-05-27 10:09:39,935 INFO 1813 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 10:09:39,935 INFO 1813 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 10:09:39,935 INFO 1813 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 10:09:39,935 INFO 1813 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 10:09:39,935 INFO 1813 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 10:09:39,936 INFO 1813 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 10:09:39,936 INFO 1813 [egg-watcher:agent] watcher start success
+2019-05-27 10:09:39,954 INFO 1813 [egg:core] dump config after ready, 3ms
+2019-05-27 11:36:02,567 INFO 3287 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 11:36:02,577 INFO 3287 [egg:core] dump config after load, 4ms
+2019-05-27 11:36:02,625 INFO 3287 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 11:36:02,625 INFO 3287 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 11:36:02,625 INFO 3287 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 11:36:02,625 INFO 3287 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 11:36:02,625 INFO 3287 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 11:36:02,625 INFO 3287 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 11:36:02,626 INFO 3287 [egg-watcher:agent] watcher start success
+2019-05-27 11:36:02,643 INFO 3287 [egg:core] dump config after ready, 3ms
+2019-05-27 11:42:11,025 INFO 3382 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 11:42:11,035 INFO 3382 [egg:core] dump config after load, 4ms
+2019-05-27 11:42:11,083 INFO 3382 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 11:42:11,083 INFO 3382 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 11:42:11,084 INFO 3382 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 11:42:11,084 INFO 3382 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 11:42:11,084 INFO 3382 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 11:42:11,084 INFO 3382 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 11:42:11,084 INFO 3382 [egg-watcher:agent] watcher start success
+2019-05-27 11:42:11,101 INFO 3382 [egg:core] dump config after ready, 2ms
+2019-05-27 11:48:12,159 INFO 3382 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/public/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2149612,"size":558,"blocks":8,"atimeMs":1558928892092.645,"mtimeMs":1558928892096.6738,"ctimeMs":1558928892096.6738,"birthtimeMs":1558678095957.0513,"atime":"2019-05-27T03:48:12.093Z","mtime":"2019-05-27T03:48:12.097Z","ctime":"2019-05-27T03:48:12.097Z","birthtime":"2019-05-24T06:08:15.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 11:50:23,604 INFO 3476 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 11:50:23,613 INFO 3476 [egg:core] dump config after load, 3ms
+2019-05-27 11:50:23,656 INFO 3476 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 11:50:23,656 INFO 3476 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 11:50:23,657 INFO 3476 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 11:50:23,657 INFO 3476 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 11:50:23,657 INFO 3476 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 11:50:23,657 INFO 3476 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 11:50:23,657 INFO 3476 [egg-watcher:agent] watcher start success
+2019-05-27 11:50:23,678 INFO 3476 [egg:core] dump config after ready, 3ms
+2019-05-27 11:50:52,824 INFO 3476 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/public/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2149612,"size":559,"blocks":8,"atimeMs":1558929052710.59,"mtimeMs":1558929052710.9255,"ctimeMs":1558929052710.9255,"birthtimeMs":1558678095957.0513,"atime":"2019-05-27T03:50:52.711Z","mtime":"2019-05-27T03:50:52.711Z","ctime":"2019-05-27T03:50:52.711Z","birthtime":"2019-05-24T06:08:15.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 11:50:53,072 INFO 3476 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/public/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2149612,"size":559,"blocks":8,"atimeMs":1558929053060.2593,"mtimeMs":1558929053060.5608,"ctimeMs":1558929053060.5608,"birthtimeMs":1558678095957.0513,"atime":"2019-05-27T03:50:53.060Z","mtime":"2019-05-27T03:50:53.061Z","ctime":"2019-05-27T03:50:53.061Z","birthtime":"2019-05-24T06:08:15.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 11:51:17,407 INFO 3515 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 11:51:17,427 INFO 3515 [egg:core] dump config after load, 6ms
+2019-05-27 11:51:17,494 INFO 3515 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 11:51:17,494 INFO 3515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 11:51:17,495 INFO 3515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 11:51:17,495 INFO 3515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 11:51:17,495 INFO 3515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 11:51:17,495 INFO 3515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 11:51:17,495 INFO 3515 [egg-watcher:agent] watcher start success
+2019-05-27 11:51:17,521 INFO 3515 [egg:core] dump config after ready, 9ms
+2019-05-27 12:26:31,852 ERROR 3515 nodejs.ClusterClientNoResponseError: client no response in 1873487ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/kchris/Desktop/projects/v-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3515
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 12:55:09,905 ERROR 3515 nodejs.ClusterClientNoResponseError: client no response in 1698036ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/kchris/Desktop/projects/v-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3515
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-27 12:57:17,060 INFO 3632 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-27 12:57:17,070 INFO 3632 [egg:core] dump config after load, 4ms
+2019-05-27 12:57:17,115 INFO 3632 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-27 12:57:17,115 INFO 3632 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-27 12:57:17,115 INFO 3632 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-27 12:57:17,116 INFO 3632 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-27 12:57:17,116 INFO 3632 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-27 12:57:17,116 INFO 3632 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-27 12:57:17,116 INFO 3632 [egg-watcher:agent] watcher start success
+2019-05-27 12:57:17,133 INFO 3632 [egg:core] dump config after ready, 3ms
+2019-05-27 12:59:21,746 INFO 3632 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/public/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2149612,"size":562,"blocks":8,"atimeMs":1558933161632.6704,"mtimeMs":1558933161632.94,"ctimeMs":1558933161632.94,"birthtimeMs":1558678095957.0513,"atime":"2019-05-27T04:59:21.633Z","mtime":"2019-05-27T04:59:21.633Z","ctime":"2019-05-27T04:59:21.633Z","birthtime":"2019-05-24T06:08:15.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-27 12:59:21,877 INFO 3632 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/kchris/Desktop/projects/v-demo/app/public/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2149612,"size":562,"blocks":8,"atimeMs":1558933161863.848,"mtimeMs":1558933161865.9744,"ctimeMs":1558933161865.9744,"birthtimeMs":1558678095957.0513,"atime":"2019-05-27T04:59:21.864Z","mtime":"2019-05-27T04:59:21.866Z","ctime":"2019-05-27T04:59:21.866Z","birthtime":"2019-05-24T06:08:15.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-05-28 09:18:19,804 INFO 1515 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 09:18:19,817 INFO 1515 [egg:core] dump config after load, 4ms
+2019-05-28 09:18:19,872 INFO 1515 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 09:18:19,872 INFO 1515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 09:18:19,873 INFO 1515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 09:18:19,873 INFO 1515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 09:18:19,873 INFO 1515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 09:18:19,873 INFO 1515 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 09:18:19,873 INFO 1515 [egg-watcher:agent] watcher start success
+2019-05-28 09:18:19,897 INFO 1515 [egg:core] dump config after ready, 5ms
+2019-05-28 09:23:26,118 INFO 1666 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 09:23:26,128 INFO 1666 [egg:core] dump config after load, 3ms
+2019-05-28 09:23:26,180 INFO 1666 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 09:23:26,180 INFO 1666 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 09:23:26,180 INFO 1666 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 09:23:26,180 INFO 1666 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 09:23:26,180 INFO 1666 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 09:23:26,180 INFO 1666 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 09:23:26,181 INFO 1666 [egg-watcher:agent] watcher start success
+2019-05-28 09:23:26,204 INFO 1666 [egg:core] dump config after ready, 4ms
+2019-05-28 09:29:04,680 INFO 1770 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 09:29:04,689 INFO 1770 [egg:core] dump config after load, 3ms
+2019-05-28 09:29:04,732 INFO 1770 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 09:29:04,732 INFO 1770 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 09:29:04,733 INFO 1770 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 09:29:04,733 INFO 1770 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 09:29:04,733 INFO 1770 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 09:29:04,733 INFO 1770 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 09:29:04,733 INFO 1770 [egg-watcher:agent] watcher start success
+2019-05-28 09:29:04,748 INFO 1770 [egg:core] dump config after ready, 2ms
+2019-05-28 09:36:28,918 INFO 1890 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 09:36:28,927 INFO 1890 [egg:core] dump config after load, 4ms
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 09:36:28,973 INFO 1890 [egg-watcher:agent] watcher start success
+2019-05-28 09:36:28,989 INFO 1890 [egg:core] dump config after ready, 2ms
+2019-05-28 10:01:28,190 INFO 2326 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 10:01:28,199 INFO 2326 [egg:core] dump config after load, 3ms
+2019-05-28 10:01:28,241 INFO 2326 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 10:01:28,242 INFO 2326 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 10:01:28,242 INFO 2326 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 10:01:28,242 INFO 2326 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 10:01:28,242 INFO 2326 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 10:01:28,242 INFO 2326 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 10:01:28,242 INFO 2326 [egg-watcher:agent] watcher start success
+2019-05-28 10:01:28,258 INFO 2326 [egg:core] dump config after ready, 3ms
+2019-05-28 10:04:47,052 INFO 2425 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 10:04:47,062 INFO 2425 [egg:core] dump config after load, 4ms
+2019-05-28 10:04:47,109 INFO 2425 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 10:04:47,109 INFO 2425 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 10:04:47,109 INFO 2425 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 10:04:47,109 INFO 2425 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 10:04:47,110 INFO 2425 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 10:04:47,110 INFO 2425 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 10:04:47,110 INFO 2425 [egg-watcher:agent] watcher start success
+2019-05-28 10:04:47,128 INFO 2425 [egg:core] dump config after ready, 3ms
+2019-05-28 10:09:09,647 INFO 2534 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 10:09:09,660 INFO 2534 [egg:core] dump config after load, 5ms
+2019-05-28 10:09:09,701 INFO 2534 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 10:09:09,701 INFO 2534 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 10:09:09,701 INFO 2534 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 10:09:09,701 INFO 2534 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 10:09:09,702 INFO 2534 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 10:09:09,702 INFO 2534 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 10:09:09,702 INFO 2534 [egg-watcher:agent] watcher start success
+2019-05-28 10:09:09,720 INFO 2534 [egg:core] dump config after ready, 3ms
+2019-05-28 10:34:34,762 INFO 2808 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 10:34:34,773 INFO 2808 [egg:core] dump config after load, 4ms
+2019-05-28 10:34:34,817 INFO 2808 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 10:34:34,817 INFO 2808 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 10:34:34,817 INFO 2808 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 10:34:34,818 INFO 2808 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 10:34:34,818 INFO 2808 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 10:34:34,818 INFO 2808 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 10:34:34,818 INFO 2808 [egg-watcher:agent] watcher start success
+2019-05-28 10:34:34,834 INFO 2808 [egg:core] dump config after ready, 3ms
+2019-05-28 10:36:36,448 INFO 2867 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 10:36:36,457 INFO 2867 [egg:core] dump config after load, 4ms
+2019-05-28 10:36:36,487 INFO 2867 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 10:36:36,487 INFO 2867 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 10:36:36,488 INFO 2867 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 10:36:36,488 INFO 2867 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 10:36:36,488 INFO 2867 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 10:36:36,488 INFO 2867 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 10:36:36,488 INFO 2867 [egg-watcher:agent] watcher start success
+2019-05-28 10:36:36,503 INFO 2867 [egg:core] dump config after ready, 2ms
+2019-05-28 14:25:33,921 INFO 5344 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 14:25:33,950 INFO 5344 [egg:core] dump config after load, 20ms
+2019-05-28 14:25:34,009 INFO 5344 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 14:25:34,009 INFO 5344 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 14:25:34,010 INFO 5344 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 14:25:34,010 INFO 5344 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 14:25:34,010 INFO 5344 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 14:25:34,010 INFO 5344 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 14:25:34,010 INFO 5344 [egg-watcher:agent] watcher start success
+2019-05-28 14:25:34,030 INFO 5344 [egg:core] dump config after ready, 6ms
+2019-05-28 14:28:21,463 INFO 5430 [egg:logger] init all loggers with options: {"dir":"/Users/kchris/Desktop/projects/v-demo/logs/v-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"v-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-05-28 14:28:21,480 INFO 5430 [egg:core] dump config after load, 6ms
+2019-05-28 14:28:21,528 INFO 5430 [egg-watcher] Start watching: ["/Users/kchris/Desktop/projects/v-demo/app","/Users/kchris/Desktop/projects/v-demo/config","/Users/kchris/Desktop/projects/v-demo/mocks","/Users/kchris/Desktop/projects/v-demo/mocks_proxy","/Users/kchris/Desktop/projects/v-demo/app.js"]
+2019-05-28 14:28:21,528 INFO 5430 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app"
+2019-05-28 14:28:21,528 INFO 5430 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/config"
+2019-05-28 14:28:21,529 INFO 5430 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks"
+2019-05-28 14:28:21,529 INFO 5430 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/mocks_proxy"
+2019-05-28 14:28:21,529 INFO 5430 [egg-watcher] Start watching: "/Users/kchris/Desktop/projects/v-demo/app.js"
+2019-05-28 14:28:21,529 INFO 5430 [egg-watcher:agent] watcher start success
+2019-05-28 14:28:21,550 INFO 5430 [egg:core] dump config after ready, 4ms

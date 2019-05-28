@@ -3,5 +3,5 @@ module.exports = app => {
     router,
     controller
   } = app
-  router.get('/', controller.home.index)
+  router.get('*', controller.home.index)
 }

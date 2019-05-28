@@ -1,5 +1,13 @@
 {
   "keys": "/Users/kchris/Desktop/projects/v-demo/config/config.default.js",
+  "static": {
+    "prefix": "/Users/kchris/Desktop/projects/v-demo/config/config.default.js",
+    "dir": "/Users/kchris/Desktop/projects/v-demo/config/config.default.js",
+    "dynamic": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js"
+  },
   "session": {
     "maxAge": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-session/config/config.default.js",
     "key": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-session/config/config.default.js",
@@ -127,14 +135,6 @@
     "rotateDuration": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js",
     "maxDays": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-logrotator/config/config.default.js"
   },
-  "static": {
-    "prefix": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-static/config/config.default.js"
-  },
   "view": {
     "root": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.default.js",
     "cache": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg-view/config/config.local.js",
@@ -163,9 +163,11 @@
       "test:unit": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
+      "axios": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "core-js": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "egg": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "es6-promise": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "iview": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "register-service-worker": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "vue": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "vue-router": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
@@ -182,6 +184,7 @@
       "@vue/test-utils": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "babel-core": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "babel-jest": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "babel-plugin-import": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "egg-bin": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "less": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "less-loader": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
