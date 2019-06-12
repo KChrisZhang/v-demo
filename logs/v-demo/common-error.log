@@ -598,3 +598,63 @@ name: "ClusterClientNoResponseError"
 pid: 3515
 hostname: KChrisdeMacBook-Pro.local
 
+2019-05-28 15:00:48,258 ERROR 6019 [-/::1/-/12ms GET /about/123] nodejs.TypeError: Cannot read property 'replace' of undefined
+    at new TemplateRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:8881:35)
+    at createRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9131:26)
+    at createRenderer$1 (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9589:10)
+    at createBundleRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9506:20)
+    at HomeController.index (/Users/kchris/Desktop/projects/v-demo/app/controller/home.js:23:22)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/kchris/Desktop/projects/v-demo/node_modules/koa-compose/index.js:44:32)
+
+pid: 6019
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-28 15:13:26,344 ERROR 6193 [-/::1/-/14ms GET /about/123] nodejs.TypeError: Cannot read property 'replace' of undefined
+    at new TemplateRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:8881:35)
+    at createRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9131:26)
+    at createRenderer$1 (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9589:10)
+    at createBundleRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9506:20)
+    at HomeController.index (/Users/kchris/Desktop/projects/v-demo/app/controller/home.js:23:22)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/kchris/Desktop/projects/v-demo/node_modules/koa-compose/index.js:44:32)
+
+pid: 6193
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-28 15:14:53,401 ERROR 6228 [-/::1/-/24ms GET /] nodejs.TypeError: Cannot read property 'replace' of undefined
+    at new TemplateRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:8881:35)
+    at createRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9131:26)
+    at createRenderer$1 (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9589:10)
+    at createBundleRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9506:20)
+    at HomeController.index (/Users/kchris/Desktop/projects/v-demo/app/controller/home.js:23:22)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/kchris/Desktop/projects/v-demo/node_modules/koa-compose/index.js:44:32)
+
+pid: 6228
+hostname: KChrisdeMacBook-Pro.local
+
+2019-05-28 15:21:13,431 ERROR 6298 [-/::1/-/12ms GET /] nodejs.TypeError: Cannot read property 'replace' of undefined
+    at new TemplateRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:8881:35)
+    at createRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9131:26)
+    at createRenderer$1 (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9589:10)
+    at createBundleRenderer (/Users/kchris/Desktop/projects/v-demo/node_modules/vue-server-renderer/build.dev.js:9506:20)
+    at HomeController.index (/Users/kchris/Desktop/projects/v-demo/app/controller/home.js:23:22)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/kchris/Desktop/projects/v-demo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/kchris/Desktop/projects/v-demo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/kchris/Desktop/projects/v-demo/node_modules/koa-compose/index.js:44:32)
+
+pid: 6298
+hostname: KChrisdeMacBook-Pro.local
+

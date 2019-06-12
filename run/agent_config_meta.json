@@ -169,6 +169,7 @@
       "es6-promise": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "iview": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "register-service-worker": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
+      "safe-json-stringify": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "vue": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "vue-router": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",
       "vue-server-renderer": "/Users/kchris/Desktop/projects/v-demo/node_modules/egg/config/config.default.js",

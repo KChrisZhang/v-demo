@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './pages/Home.vue'
+import About from './pages/About.vue'
 
 Vue.use(Router)
 
@@ -16,7 +17,7 @@ export function createRouter() {
       {
         path: '/about/:id',
         name: 'about',
-        component: () => import('./pages/About.vue')
+        component: About
       }
     ]
   })

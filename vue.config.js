@@ -8,6 +8,9 @@ const configureWebpack = isServer ? serverConf : clientConf
 
 module.exports = {
   outputDir: isServer ? './dist/server' : './dist/client',
+  css: {
+    sourceMap: !isServer,
+  },
   configureWebpack,
   chainWebpack: config => {
     config.module

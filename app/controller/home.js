@@ -3,10 +3,13 @@
 const fs = require('fs');
 const path = require('path');
 const Controller = require('egg').Controller;
+// const safeJsonStringify = require('safe-json-stringify');
 const {
   createBundleRenderer
 } = require('vue-server-renderer');
 
+// const serverBundle = safeJsonStringify(require('../../dist/server/vue-ssr-server-bundle.json'));
+// const clientManifest = safeJsonStringify(require('../../dist/client/vue-ssr-client-manifest.json'));
 const serverBundle = require('../../dist/server/vue-ssr-server-bundle.json');
 const clientManifest = require('../../dist/client/vue-ssr-client-manifest.json');
 const template = fs.readFileSync(path.resolve(__dirname, '../public/index.html'), 'UTF-8');
@@ -24,7 +27,6 @@ class HomeController extends Controller {
       template, // （可选）页面模板
       clientManifest // （可选）客户端构建 manifest
     })
-
     try {
       const html = await renderer.renderToString({
         url: ctx.request.url
